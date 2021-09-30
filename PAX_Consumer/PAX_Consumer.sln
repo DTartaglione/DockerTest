@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAX_Consumer", "PAX_Consumer\PAX_Consumer.csproj", "{FCF63BFE-FF00-4217-A3F1-1D8621C3D7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF63BFE-FF00-4217-A3F1-1D8621C3D7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF63BFE-FF00-4217-A3F1-1D8621C3D7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF63BFE-FF00-4217-A3F1-1D8621C3D7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF63BFE-FF00-4217-A3F1-1D8621C3D7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA8179B9-AF29-4381-B075-528F1C67FDCC}
+	EndGlobalSection
+EndGlobal

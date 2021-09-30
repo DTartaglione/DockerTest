@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_Detection_Consumer", "Video_Detection_Consumer\Video_Detection_Consumer.csproj", "{E1C63321-879D-472B-AE39-0375BA4768B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C63321-879D-472B-AE39-0375BA4768B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C63321-879D-472B-AE39-0375BA4768B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C63321-879D-472B-AE39-0375BA4768B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C63321-879D-472B-AE39-0375BA4768B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A146F45A-0893-4338-AC36-274DF22C60EA}
+	EndGlobalSection
+EndGlobal

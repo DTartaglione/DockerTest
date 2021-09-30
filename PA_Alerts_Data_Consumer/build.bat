@@ -1,0 +1,1 @@
+msbuild PA_Alerts_Data_Consumer.sln /p:Configuration=Release /p:Platform="Any CPU" -t:restore,build -p:RestorePackagesConfig=true

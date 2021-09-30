@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATR_Data_Consumer", "ATR_Data_Consumer\ATR_Data_Consumer.csproj", "{ABA0158B-9B99-4C61-97D6-950EFE3E030C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA0158B-9B99-4C61-97D6-950EFE3E030C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA0158B-9B99-4C61-97D6-950EFE3E030C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA0158B-9B99-4C61-97D6-950EFE3E030C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA0158B-9B99-4C61-97D6-950EFE3E030C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FB7D700-9547-4BC6-A5E9-E0570D5CC0A6}
+	EndGlobalSection
+EndGlobal
